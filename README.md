@@ -1,6 +1,6 @@
 # Task 5 - Add & Delete Products/Buyers
 
-This project implements **add & delete functionality** for Products/Buyers as per Task 5 requirements.
+This project implements **add & delete functionality** for Products/Buyers.
 
 ## Features
 ✅ Add new products/buyers via form  
